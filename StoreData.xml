@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-32"?>
+<Data xmlns="http://schemas.microsoft.com/appx/store/manifest/2015">
+	<?store version="10.0.10081.17" build="10081"?>
+	<Store>
+		<!-- Create updates of apps -->
+		<Updates AsOf="_LastestYear"/>
+		<AppEngine Source="https://apps.microsoft.com/store/apps"/>
+	</Store>
+</Data>
